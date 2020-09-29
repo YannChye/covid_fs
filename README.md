@@ -9,7 +9,7 @@ Against a few spikes coinciding with key covid events, there is a general trend 
 
 <p align="center">
   <a href=>
-    <img src="fig/COVID_fs.png" alt="Logo" width="750" height="300">
+    <img src="fig/COVID_fs.png" alt="Logo" width="900" height="400">
   </a>
   <br>
 * values are 3-day rolling averages
